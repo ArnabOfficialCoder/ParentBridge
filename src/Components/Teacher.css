@@ -1,0 +1,204 @@
+.FacultyDash {
+  cursor: pointer;
+  font-size: 24px;
+  color: black;
+}
+.css-1t1j96h-MuiPaper-root-MuiDialog-paper {
+  width: 50rem !important;
+  height: 110vh !important;
+}
+.CoursesTableCellHead {
+  font-size: 18px !important;
+  font-family: cursive !important;
+  font-weight: bold !important;
+}
+.TableBodyHead {
+  background-color: aliceblue !important;
+}
+.CoursesTableHead {
+  background-color: goldenrod !important;
+}
+.courseTableValue {
+  font-size: 14px !important;
+  font-family: Arial, Helvetica, sans-serif !important;
+  font-weight: 400 !important;
+}
+.HeaderPopupModal {
+  font-family: cursive !important;
+  font-size: 1.4rem !important;
+  font-weight: bold !important;
+  text-align: center !important;
+  background-color: peru !important;
+}
+.NoAttenClass {
+  text-align: center !important;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: bold !important;
+  font-size: 1.4rem !important;
+  line-height: 11.5 !important;
+}
+.subjectClassHeader {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif !important;
+  font-size: 1.3rem !important;
+  color: black !important;
+  font-weight: bold !important;
+}
+.PercentageClassHeader {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif !important;
+  font-size: 1.3rem !important;
+  color: black !important;
+  font-weight: bold !important;
+}
+.studentName-header {
+  font-family: Arial, Helvetica, sans-serif !important;
+  font-size: 1.1rem !important;
+  font-weight: bold !important;
+  text-align: center !important;
+}
+.aggregatePercentageHover:hover {
+  cursor: pointer;
+  color: red;
+  text-decoration: underline;
+}
+.PaymentDetailsHeader {
+  display: flex;
+  font-family: cursive;
+  font-size: 30px;
+  justify-content: space-around;
+  margin-bottom: 1rem;
+  margin-top: -1rem;
+}
+.aggregatePercentageHover {
+  cursor: pointer;
+  /* Add any other common styles here */
+}
+.TeacherAttendanceTable {
+  display: flex;
+  width: 66.6rem;
+}
+
+.red {
+  color: red !important;
+}
+
+.green {
+  color: green !important;
+}
+.dropdowmResult {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 1rem;
+}
+.tableContainer {
+  width: 78%;
+  margin-top: 2rem;
+}
+.table-container {
+  display: flex;
+  width: 142%;
+  flex-wrap: wrap;
+}
+.resultHEader {
+  display: flex;
+}
+.table-header {
+  font-family: cursive !important;
+  font-size: 18px !important;
+  font-weight: bold !important;
+  background-color: goldenrod !important;
+}
+
+/* TeacherPaymentTable.css */
+.payment-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.payment-table-header {
+  background-color: tan;
+  color: #fff;
+}
+
+.payment-table-header-cell {
+  padding: 12px;
+  font-weight: bold;
+}
+
+.payment-table-row:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.payment-table-cell {
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}
+
+.payment-table-cell:last-child {
+  border-right: 1px solid #ddd;
+}
+
+.payment-table-cell:first-child {
+  border-left: 1px solid #ddd;
+}
+
+.payment-table-cell--numeric {
+  text-align: right;
+}
+
+.payment-table-cell--date {
+  min-width: 100px;
+}
+
+.payment-table-cell--amount {
+  min-width: 120px;
+}
+
+.payment-table-cell--semester {
+  min-width: 100px;
+}
+
+.tableCellHead {
+  font-size: 18px !important;
+  font-family: cursive !important;
+  font-weight: bold !important;
+}
+.tableRowHead {
+  background-color: goldenrod;
+}
+.coursesContainer {
+  display: flex !important;
+  width: 78% !important;
+  margin-top: 1rem !important;
+}
+.FacultyDash:hover {
+  cursor: pointer;
+  font-size: 24px;
+  color: brown;
+}
+.main-table {
+  min-width: 700px; /* Ensure table width doesn't shrink too much */
+}
+
+.table-row {
+  background-color: #f9f9f9; /* Alternate row color */
+}
+
+.empty-cell {
+  padding: 0;
+}
+
+.collapse-box {
+  margin: 8px 0; /* Add some space around the inner table */
+}
+.dropdownContainer {
+  margin-top: 0rem;
+  margin-left: 3rem;
+}
+
+.courseName {
+  margin-top: 1.3rem;
+}
+
+.pagination {
+  margin-top: 16px; /* Add space between table and pagination */
+}

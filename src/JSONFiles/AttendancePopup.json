@@ -1,0 +1,3354 @@
+{
+  "attendanceDetails": [
+    {
+      "studentName": "Perumal Ram Babu",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 0
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 0
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 10
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 0
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 5
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 0
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 0
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 0
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 0
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 0
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Ankush A Managavi",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 8
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 28
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 25
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 20
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 35
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 19
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 40
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 60
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 0
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 18
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Sujith G",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 75
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 79
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 75
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 84
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 68
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 67
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 80
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 44
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 73
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 82
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Basude Aditya Bhagawat",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 83
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 72
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 60
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 82
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 80
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 72
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 80
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 52
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 60
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 82
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Chethankumara T R",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 88
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 76
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 58
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 86
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 75
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 81
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 80
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 72
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 100
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 82
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Harish Bhat",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 67
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 66
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 65
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 65
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 60
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 56
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 90
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 80
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 27
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 0
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Gorlanna Gari Chandhan",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 79
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 83
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 73
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 75
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 73
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 77
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 80
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 72
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 73
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 36
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Ashish Kumar A",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 96
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 83
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 68
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 92
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 80
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 86
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 80
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 68
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 60
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 82
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Ayush Kumar",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 83
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 69
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 60
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 84
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 63
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 67
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 80
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 60
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 73
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 82
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Harishchandra Chaudhary",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 92
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 83
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 80
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 90
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 75
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 86
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 100
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 24
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 73
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 91
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Yashwanth K B",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 83
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 76
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 70
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 82
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 70
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 84
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 80
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 64
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 0
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 55
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Anshuman Chakrabortty",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 92
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 69
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 65
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 75
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 65
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 67
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 80
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 20
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 73
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 73
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Ratul Saha",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 92
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 79
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 80
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 84
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 70
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 70
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 60
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 20
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 53
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 82
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Dharmesh M",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 83
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 76
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 80
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 84
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 70
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 93
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 80
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 64
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 27
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 27
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Annapurna Biswas",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 79
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 86
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 73
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 90
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 80
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 84
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 80
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 32
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 80
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 91
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Abhijeet Khan",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 79
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 79
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 70
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 86
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 63
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 58
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 80
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 68
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 87
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 82
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Pandey Priyanka Manoj Kumar",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 83
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 79
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 83
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 82
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 70
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 67
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 80
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 84
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 73
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 55
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Neha Kumari",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 79
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 86
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 80
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 94
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 78
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 86
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 80
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 44
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 80
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 91
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Simpal Patel",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 100
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 97
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 95
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 96
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 95
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 93
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 80
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 76
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 80
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 91
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Suman Roy",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 50
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 41
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 28
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 57
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 40
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 37
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 80
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 36
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 73
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 82
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Arnab Pal",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 83
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 66
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 53
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 75
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 60
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 65
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 100
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 8
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 100
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 91
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Amrutha Vindhya R K",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 79
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 79
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 65
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 73
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 73
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 65
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 80
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 64
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 80
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 73
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Sai Kishore Karsula",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 71
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 55
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 43
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 53
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 50
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 49
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 60
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 60
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 0
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 36
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Suhas H V",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 75
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 79
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 73
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 78
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 70
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 70
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 60
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 68
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 53
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 45
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Sandeep N",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 92
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 76
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 65
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 90
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 68
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 77
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 80
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 60
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 73
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 82
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Sounder Rajan G",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 75
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 38
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 38
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 63
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 50
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 44
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 80
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 16
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 73
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 36
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "R Chetan",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 88
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 76
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 58
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 88
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 65
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 74
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 40
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 80
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 60
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 73
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Kishor N H",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 58
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 59
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 35
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 71
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 40
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 37
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 80
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 44
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 27
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 18
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Sahana T",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 100
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 86
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 95
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 98
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 90
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 91
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 80
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 80
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 100
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 82
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Suraj",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 75
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 72
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 78
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 88
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 70
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 70
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 80
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 92
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 0
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 0
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Darshan K A",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 96
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 79
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 75
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 88
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 70
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 86
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 80
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 64
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 60
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 36
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Mohan A T",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 96
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 93
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 90
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 98
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 93
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 91
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 80
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 84
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 100
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 45
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Deepthi H",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 92
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 86
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 85
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 92
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 93
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 93
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 80
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 84
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 100
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 73
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Bhavana M S",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 79
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 86
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 80
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 82
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 75
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 79
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 80
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 84
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 100
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 64
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Chandini K S",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 83
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 66
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 85
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 84
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 73
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 81
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 80
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 100
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 20
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 0
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Amulya H S",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 88
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 76
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 90
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 88
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 88
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 77
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 80
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 88
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 73
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 82
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Pallavi Jattu Gowda",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 92
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 100
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 95
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 88
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 85
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 84
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 80
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 88
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 87
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 64
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Rashmitha T",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 83
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 79
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 98
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 92
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 78
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 79
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 80
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 92
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 20
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 9
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Punith Gowda K",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 96
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 86
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 83
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 96
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 80
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 70
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 80
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 76
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 60
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 55
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Mohammad Azeem",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 92
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 79
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 75
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 78
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 68
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 70
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 100
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 52
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 60
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 55
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Yogesha K B",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 25
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 28
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 38
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 55
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 33
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 33
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 80
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 48
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 33
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 0
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Nagaprasada",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 88
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 93
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 78
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 92
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 75
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 86
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 100
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 72
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 67
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 82
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Sripriya N D",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 79
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 76
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 80
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 80
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 65
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 72
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 80
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 48
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 87
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 73
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Ranjithgowda H K",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 96
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 69
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 83
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 92
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 68
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 91
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 80
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 68
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 80
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 55
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Vikas J",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 63
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 76
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 65
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 78
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 65
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 65
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 80
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 72
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 60
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 36
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Rachana V Shet",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 71
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 66
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 70
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 76
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 75
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 58
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 80
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 56
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 60
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 64
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Pooja C Koti",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 71
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 86
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 83
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 78
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 73
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 74
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 80
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 60
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 60
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 73
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Sanjana V Amargol",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 83
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 52
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 48
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 76
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 43
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 70
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 80
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 44
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 73
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 64
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Shreenidhi R Bhat",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 92
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 90
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 93
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 92
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 88
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 93
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 80
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 72
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 100
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 73
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Karthik Kiran S",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 92
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 97
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 85
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 94
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 90
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 93
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 80
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 68
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 100
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 82
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Likitha S V",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 92
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 90
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 80
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 88
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 80
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 81
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 80
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 92
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 87
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 64
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Pramod B S",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 83
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 72
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 65
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 92
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 68
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 84
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 80
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 68
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 100
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 73
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Giri Koushik Yalla",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 96
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 83
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 68
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 94
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 73
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 77
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 80
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 48
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 60
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 55
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Nayana N A",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 71
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 62
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 65
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 78
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 60
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 65
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 80
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 48
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 60
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 55
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Veeresh K P",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 88
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 72
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 65
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 90
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 70
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 70
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 80
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 52
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 80
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 73
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Anoop K V",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 75
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 69
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 70
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 80
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 45
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 67
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 80
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 52
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 67
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 64
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Shashank Kabadagi",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 92
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 86
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 70
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 82
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 78
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 77
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 80
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 64
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 93
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 64
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Mohan G",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 0
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 0
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 0
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 0
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 0
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 0
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 20
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 4
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 0
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 0
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Hema G H",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 88
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 72
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 60
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 78
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 65
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 60
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 80
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 64
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 93
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 64
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Meghana S",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 92
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 79
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 68
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 92
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 85
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 72
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 80
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 80
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 80
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 64
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Emma",
+      "subjects": [
+        {
+          "subjectName": "BM(GK)",
+          "percentage": 0
+        },
+        {
+          "subjectName": "Maths(VR)",
+          "percentage": 0
+        },
+        {
+          "subjectName": "OOPS(SKS)",
+          "percentage": 10
+        },
+        {
+          "subjectName": "AI(BD)",
+          "percentage": 0
+        }
+      ],
+      "labs": [
+        {
+          "labName": "DS LAB(MD)",
+          "percentage": 0
+        }
+      ],
+      "studentType": "UNDERGRADUATE"
+    },
+    {
+      "studentName": "Christopher",
+      "subjects": [
+        {
+          "subjectName": "BM(GK)",
+          "percentage": 40
+        },
+        {
+          "subjectName": "Maths(VR)",
+          "percentage": 50
+        },
+        {
+          "subjectName": "OOPS(SKS)",
+          "percentage": 100
+        },
+        {
+          "subjectName": "AI(BD)",
+          "percentage": 90
+        }
+      ],
+      "labs": [
+        {
+          "labName": "DS LAB(MD)",
+          "percentage": 77
+        }
+      ],
+      "studentType": "UNDERGRADUATE"
+    },
+    {
+      "studentName": "Ava",
+      "subjects": [
+        {
+          "subjectName": "BM(GK)",
+          "percentage": 90
+        },
+        {
+          "subjectName": "Maths(VR)",
+          "percentage": 90
+        },
+        {
+          "subjectName": "OOPS(SKS)",
+          "percentage": 70
+        },
+        {
+          "subjectName": "AI(BD)",
+          "percentage": 80
+        }
+      ],
+      "labs": [
+        {
+          "labName": "DS LAB(MD)",
+          "percentage": 100
+        }
+      ],
+      "studentType": "UNDERGRADUATE"
+    },
+    {
+      "studentName": "Noah",
+      "subjects": [
+        {
+          "subjectName": "BM(GK)",
+          "percentage": 23
+        },
+        {
+          "subjectName": "Maths(VR)",
+          "percentage": 55
+        },
+        {
+          "subjectName": "OOPS(SKS)",
+          "percentage": 78
+        },
+        {
+          "subjectName": "AI(BD)",
+          "percentage": 96
+        }
+      ],
+      "labs": [
+        {
+          "labName": "DS LAB(MD)",
+          "percentage": 67
+        }
+      ],
+      "studentType": "UNDERGRADUATE"
+    },
+    {
+      "studentName": "Madison",
+      "subjects": [
+        {
+          "subjectName": "BM(GK)",
+          "percentage": 0
+        },
+        {
+          "subjectName": "Maths(VR)",
+          "percentage": 0
+        },
+        {
+          "subjectName": "OOPS(SKS)",
+          "percentage": 17
+        },
+        {
+          "subjectName": "AI(BD)",
+          "percentage": 34
+        }
+      ],
+      "labs": [
+        {
+          "labName": "DS LAB(MD)",
+          "percentage": 60
+        }
+      ],
+      "studentType": "UNDERGRADUATE"
+    },
+    {
+      "studentName": "Wilson",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 20
+        },
+        {
+          "subjectName": "ST(VR)",
+          "percentage": 20
+        },
+        {
+          "subjectName": "OS(MD)",
+          "percentage": 47
+        },
+        {
+          "subjectName": "BA(BD)",
+          "percentage": 74
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Martinez",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 25
+        },
+        {
+          "subjectName": "ST(VR)",
+          "percentage": 50
+        },
+        {
+          "subjectName": "OS(MD)",
+          "percentage": 57
+        },
+        {
+          "subjectName": "BA(BD)",
+          "percentage": 70
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Smith",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 100
+        },
+        {
+          "subjectName": "ST(VR)",
+          "percentage": 100
+        },
+        {
+          "subjectName": "OS(MD)",
+          "percentage": 60
+        },
+        {
+          "subjectName": "BA(BD)",
+          "percentage": 89
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Johnson",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 20
+        },
+        {
+          "subjectName": "ST(VR)",
+          "percentage": 20
+        },
+        {
+          "subjectName": "OS(MD)",
+          "percentage": 74
+        },
+        {
+          "subjectName": "BA(BD)",
+          "percentage": 88
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Brown",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 44
+        },
+        {
+          "subjectName": "ST(VR)",
+          "percentage": 66
+        },
+        {
+          "subjectName": "OS(MD)",
+          "percentage": 87
+        },
+        {
+          "subjectName": "BA(BD)",
+          "percentage": 67
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Kiran",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 20
+        },
+        {
+          "subjectName": "ST(VR)",
+          "percentage": 20
+        },
+        {
+          "subjectName": "OS(MD)",
+          "percentage": 47
+        },
+        {
+          "subjectName": "BA(BD)",
+          "percentage": 74
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Chetan",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 25
+        },
+        {
+          "subjectName": "ST(VR)",
+          "percentage": 50
+        },
+        {
+          "subjectName": "OS(MD)",
+          "percentage": 57
+        },
+        {
+          "subjectName": "BA(BD)",
+          "percentage": 70
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Anindita",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 100
+        },
+        {
+          "subjectName": "ST(VR)",
+          "percentage": 100
+        },
+        {
+          "subjectName": "OS(MD)",
+          "percentage": 60
+        },
+        {
+          "subjectName": "BA(BD)",
+          "percentage": 89
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Manikant",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 20
+        },
+        {
+          "subjectName": "ST(VR)",
+          "percentage": 20
+        },
+        {
+          "subjectName": "OS(MD)",
+          "percentage": 74
+        },
+        {
+          "subjectName": "BA(BD)",
+          "percentage": 88
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Shushant",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 44
+        },
+        {
+          "subjectName": "ST(VR)",
+          "percentage": 66
+        },
+        {
+          "subjectName": "OS(MD)",
+          "percentage": 87
+        },
+        {
+          "subjectName": "BA(BD)",
+          "percentage": 67
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Bhagya",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 100
+        },
+        {
+          "subjectName": "ST(VR)",
+          "percentage": 100
+        },
+        {
+          "subjectName": "OS(MD)",
+          "percentage": 100
+        },
+        {
+          "subjectName": "BA(BD)",
+          "percentage": 100
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Lavanya",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 25
+        },
+        {
+          "subjectName": "ST(VR)",
+          "percentage": 50
+        },
+        {
+          "subjectName": "OS(MD)",
+          "percentage": 57
+        },
+        {
+          "subjectName": "BA(BD)",
+          "percentage": 70
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Gagana",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 100
+        },
+        {
+          "subjectName": "ST(VR)",
+          "percentage": 100
+        },
+        {
+          "subjectName": "OS(MD)",
+          "percentage": 60
+        },
+        {
+          "subjectName": "BA(BD)",
+          "percentage": 89
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Ganashree",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 20
+        },
+        {
+          "subjectName": "ST(VR)",
+          "percentage": 20
+        },
+        {
+          "subjectName": "OS(MD)",
+          "percentage": 74
+        },
+        {
+          "subjectName": "BA(BD)",
+          "percentage": 88
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    },
+    {
+      "studentName": "Akriti",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 44
+        },
+        {
+          "subjectName": "ST(VR)",
+          "percentage": 66
+        },
+        {
+          "subjectName": "OS(MD)",
+          "percentage": 87
+        },
+        {
+          "subjectName": "BA(BD)",
+          "percentage": 67
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    }
+  ]
+}

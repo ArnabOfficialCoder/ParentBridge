@@ -1,0 +1,85 @@
+{
+    "Courses": [
+      {
+        "id": 1,
+        "name": "Introduction to Programming",
+        "schedule": "MWF 9:00 AM - 10:30 AM",
+        "syllabus": "Fundamentals of programming using a high-level language.",
+        "objectives": "Understand basic programming constructs, develop problem-solving skills.",
+        "requiredMaterials": "Textbook: 'Starting Out with Python', Code editor"
+      },
+      {
+        "id": 2,
+        "name": "Data Structures and Algorithms",
+        "schedule": "TTh 11:00 AM - 12:30 PM",
+        "syllabus": "Study of fundamental data structures and algorithm analysis.",
+        "objectives": "Learn about various data structures, analyze algorithm efficiency.",
+        "requiredMaterials": "Textbook: 'Introduction to Algorithms', Programming environment"
+      },
+      {
+        "id": 3,
+        "name": "Database Management Systems",
+        "schedule": "MWF 2:00 PM - 3:30 PM",
+        "syllabus": "Introduction to database systems and their management.",
+        "objectives": "Understand database design, query languages, and transaction management.",
+        "requiredMaterials": "Textbook: 'Database System Concepts', DBMS software"
+      },
+      {
+        "id": 4,
+        "name": "Web Development",
+        "schedule": "TTh 9:00 AM - 10:30 AM",
+        "syllabus": "Design and development of dynamic web applications.",
+        "objectives": "Learn front-end and back-end web technologies, build interactive websites.",
+        "requiredMaterials": "Textbook: 'HTML and CSS: Design and Build Websites', Web development tools"
+      },
+      {
+        "id": 5,
+        "name": "Operating Systems",
+        "schedule": "MWF 1:00 PM - 2:30 PM",
+        "syllabus": "Study of operating system principles and functionality.",
+        "objectives": "Understand process management, memory management, and file systems.",
+        "requiredMaterials": "Textbook: 'Operating System Concepts', Operating system environment"
+      },
+      {
+        "id": 6,
+        "name": "Software Engineering",
+        "schedule": "TTh 2:00 PM - 3:30 PM",
+        "syllabus": "Introduction to software development methodologies and practices.",
+        "objectives": "Learn software development lifecycle, design patterns, and testing techniques.",
+        "requiredMaterials": "Textbook: 'Software Engineering: A Practitioner's Approach', Development tools"
+      },
+      {
+        "id": 7,
+        "name": "Computer Networks",
+        "schedule": "MWF 11:00 AM - 12:30 PM",
+        "syllabus": "Study of computer network architecture, protocols, and communication.",
+        "objectives": "Understand network models, routing algorithms, and network security.",
+        "requiredMaterials": "Textbook: 'Computer Networking: A Top-Down Approach', Networking equipment"
+      },
+      {
+        "id": 8,
+        "name": "Artificial Intelligence",
+        "schedule": "TTh 1:00 PM - 2:30 PM",
+        "syllabus": "Introduction to artificial intelligence concepts and techniques.",
+        "objectives": "Learn about search algorithms, knowledge representation, and machine learning.",
+        "requiredMaterials": "Textbook: 'Artificial Intelligence: A Modern Approach', AI software"
+      },
+      {
+        "id": 9,
+        "name": "Mobile Application Development",
+        "schedule": "MWF 3:00 PM - 4:30 PM",
+        "syllabus": "Design and development of mobile applications for various platforms.",
+        "objectives": "Explore mobile UI design, mobile app architectures, and deployment strategies.",
+        "requiredMaterials": "Textbook: 'Mobile Application Development', Mobile development tools"
+      },
+      {
+        "id": 10,
+        "name": "Cybersecurity",
+        "schedule": "TTh 3:00 PM - 4:30 PM",
+        "syllabus": "Study of security threats, vulnerabilities, and countermeasures in computer systems.",
+        "objectives": "Understand cryptography, network security, and security policies.",
+        "requiredMaterials": "Textbook: 'Principles of Computer Security', Security tools"
+      }
+    ]
+  }
+  

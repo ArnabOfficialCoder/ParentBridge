@@ -1,0 +1,490 @@
+{
+  "attendanceSheet": {
+    "MCA": [
+      {
+        "studentName": "Perumal Ram Babu",
+        "universityRoll": "P03AD22S126018",
+        "aggregatePercentage": 2
+      },
+      {
+        "studentName": "Ankush A Managavi",
+        "universityRoll": "P03AD22S126019",
+        "aggregatePercentage": 25
+      },
+      {
+        "studentName": "Sujith G",
+        "universityRoll": "P03AD22S126020",
+        "aggregatePercentage": 73
+      },
+      {
+        "studentName": "Basude Aditya Bhagawat",
+        "universityRoll": "P03AD22S126021",
+        "aggregatePercentage": 72
+      },
+      {
+        "studentName": "Chethankumara T R",
+        "universityRoll": "P03AD22S126022",
+        "aggregatePercentage": 80
+      },
+      {
+        "studentName": "Harish Bhat ",
+        "universityRoll": "P03AD22S126023",
+        "aggregatePercentage": 58
+      },
+      {
+        "studentName": "Gorlanna Gari Chandhan ",
+        "universityRoll": "P03AD22S126024",
+        "aggregatePercentage": 72
+      },
+      {
+        "studentName": "Ashish kumar A",
+        "universityRoll": "P03AD22S126025 ",
+        "aggregatePercentage": 80
+      },
+      {
+        "studentName": "Ayush Kumar",
+        "universityRoll": "P03AD22S126026",
+        "aggregatePercentage": 72
+      },
+      {
+        "studentName": "Harishchandra Chaudhary ",
+        "universityRoll": "P03AD22S126027 ",
+        "aggregatePercentage": 79
+      },
+      {
+        "studentName": "Yashwanth K B",
+        "universityRoll": "1 P03AD22S126028 ",
+        "aggregatePercentage": 66
+      },
+      {
+        "studentName": "Anshuman Chakrabortty",
+        "universityRoll": "P03AD22S126029 ",
+        "aggregatePercentage": 68
+      },
+      {
+        "studentName": "Ratul Saha",
+        "universityRoll": "P03AD22S126030 ",
+        "aggregatePercentage": 69
+      },
+      {
+        "studentName": "Dharmesh M",
+        "universityRoll": "P03AD22S126031",
+        "aggregatePercentage": 68
+      },
+      {
+        "studentName": "Annapurna Biswas",
+        "universityRoll": "P03AD22S126032",
+        "aggregatePercentage": 78
+      },
+      {
+        "studentName": "Abhijeet Khan",
+        "universityRoll": "P03AD22S126033",
+        "aggregatePercentage": 75
+      },
+      {
+        "studentName": "Pandey Priyanka Manoj Kumar",
+        "universityRoll": "P03AD22S126033",
+        "aggregatePercentage": 76
+      },
+      {
+        "studentName": "Neha Kumari",
+        "universityRoll": "P03AD22S126035 ",
+        "aggregatePercentage": 80
+      },
+      {
+        "studentName": "Simpal Patel",
+        "universityRoll": " P03AD22S126036 ",
+        "aggregatePercentage": 90
+      },
+      {
+        "studentName": "Suman Roy",
+        "universityRoll": "P03AD22S126037",
+        "aggregatePercentage": 52
+      },
+      {
+        "studentName": "Arnab Pal",
+        "universityRoll": "P03AD22S126038",
+        "aggregatePercentage": 70
+      },
+      {
+        "studentName": "Amrutha Vindhya R K",
+        "universityRoll": "P03AD22S126039",
+        "aggregatePercentage": 73
+      },
+      {
+        "studentName": "Sai Kishore Karusla",
+        "universityRoll": "P03AD22S126040",
+        "aggregatePercentage": 48
+      },
+      {
+        "studentName": "Suhas H V",
+        "universityRoll": "P03AD22S126042",
+        "aggregatePercentage": 67
+      },
+      {
+        "studentName": "Sandeep N",
+        "universityRoll": "P03AD22S126043",
+        "aggregatePercentage": 76
+      },
+      {
+        "studentName": "Sounder Rajan G",
+        "universityRoll": "P03AD22S126044",
+        "aggregatePercentage": 51
+      },
+      {
+        "studentName": "R Chetan ",
+        "universityRoll": "P03AD22S126045",
+        "aggregatePercentage": 70
+      },
+      {
+        "studentName": "Kishor N H ",
+        "universityRoll": "P03AD22S126046",
+        "aggregatePercentage": 47
+      },
+      {
+        "studentName": "Sahana T ",
+        "universityRoll": "P03AD22S126047",
+        "aggregatePercentage": 90
+      },
+      {
+        "studentName": "Suraj ",
+        "universityRoll": "P03AD22S126048",
+        "aggregatePercentage": 63
+      },
+      {
+        "studentName": "Darshan K A",
+        "universityRoll": "P03AD22S126049",
+        "aggregatePercentage": 73
+      },
+      {
+        "studentName": "Mohan A T ",
+        "universityRoll": "P03AD22S126050",
+        "aggregatePercentage": 87
+      },
+      {
+        "studentName": "Deepthi H",
+        "universityRoll": "P03AD22S126051",
+        "aggregatePercentage": 88
+      },
+      {
+        "studentName": "Bhavana M S ",
+        "universityRoll": "P03AD22S126052",
+        "aggregatePercentage": 81
+      },
+      {
+        "studentName": "Chandini M S",
+        "universityRoll": "P03AD22S126053",
+        "aggregatePercentage": 67
+      },
+      {
+        "studentName": "Amulya H S ",
+        "universityRoll": "P03AD22S126054",
+        "aggregatePercentage": 83
+      },
+      {
+        "studentName": "Pallavi Jattu Gowda ",
+        "universityRoll": "P03AD22S126055",
+        "aggregatePercentage": 86
+      },
+      {
+        "studentName": "Rashmita T ",
+        "universityRoll": "P03AD22S126056",
+        "aggregatePercentage": 71
+      },
+      {
+        "studentName": "Punith Gowda K ",
+        "universityRoll": "P03AD22S126057",
+        "aggregatePercentage": 78
+      },
+      {
+        "studentName": "Mohammad Azeem ",
+        "universityRoll": "P03AD22S126058",
+        "aggregatePercentage": 73
+      },
+      {
+        "studentName": "Yogesh K B ",
+        "universityRoll": "P03AD22S126059",
+        "aggregatePercentage": 37
+      },
+      {
+        "studentName": "Nagaprasad ",
+        "universityRoll": "P03AD22S126060",
+        "aggregatePercentage": 83
+      },
+      {
+        "studentName": "Sripriya N D ",
+        "universityRoll": "P03AD22S126061",
+        "aggregatePercentage": 74
+      },
+      {
+        "studentName": "Ranjithgowda H K ",
+        "universityRoll": "P03AD22S126062",
+        "aggregatePercentage": 78
+      },
+      {
+        "studentName": "Vikas J ",
+        "universityRoll": "P03AD22S126063",
+        "aggregatePercentage": 66
+      },
+      {
+        "studentName": "Rachana V Shet ",
+        "universityRoll": "P03AD22S126064",
+        "aggregatePercentage": 68
+      },
+      {
+        "studentName": "Pooja C Koti ",
+        "universityRoll": "P03AD22S126065",
+        "aggregatePercentage": 74
+      },
+      {
+        "studentName": "Sanjana V Amargol ",
+        "universityRoll": "P03AD22S126066",
+        "aggregatePercentage": 63
+      },
+      {
+        "studentName": "Shreenidhi R Bhat ",
+        "universityRoll": "P03AD22S126067",
+        "aggregatePercentage": 87
+      },
+      {
+        "studentName": "Karthik Kiran S ",
+        "universityRoll": "P03AD22S126068",
+        "aggregatePercentage": 88
+      },
+      {
+        "studentName": "Likitha S ",
+        "universityRoll": "P03AD22S126069",
+        "aggregatePercentage": 83
+      },
+      {
+        "studentName": "Promod B S ",
+        "universityRoll": "P03AD22S126070",
+        "aggregatePercentage": 79
+      },
+      {
+        "studentName": "Giri Koushik Yalla ",
+        "universityRoll": "P03AD22S126071",
+        "aggregatePercentage": 73
+      },
+      {
+        "studentName": "Nayana N A ",
+        "universityRoll": "P03AD22S126072",
+        "aggregatePercentage": 64
+      },
+      {
+        "studentName": "Veeresh K P ",
+        "universityRoll": "P03AD22S126073",
+        "aggregatePercentage": 74
+      },
+      {
+        "studentName": "Anoop K V",
+        "universityRoll": "P03AD22S126074",
+        "aggregatePercentage": 67
+      },
+      {
+        "studentName": "Shashank Kabadagi ",
+        "universityRoll": "P03AD22S126075 ",
+        "aggregatePercentage": 79
+      },
+      {
+        "studentName": "Mohan G ",
+        "universityRoll": "P03AD22S126076",
+        "aggregatePercentage": 2
+      },
+      {
+        "studentName": "Hema G H",
+        "universityRoll": "P03AD22S126077 ",
+        "aggregatePercentage": 72
+      },
+      {
+        "studentName": "Meghana S ",
+        "universityRoll": "P03AD22S126078 ",
+        "aggregatePercentage": 79
+      }
+    ],
+    "MFA": [
+      {
+        "studentName": "Kiran",
+        "universityRoll": "MFA111",
+        "aggregatePercentage": 78.5
+      },
+      {
+        "studentName": "Chetan",
+        "universityRoll": "MFA112",
+        "aggregatePercentage": 85.2
+      },
+      {
+        "studentName": "Anindita",
+        "universityRoll": "MFA113",
+        "aggregatePercentage": 89.7
+      },
+      {
+        "studentName": "Manikant",
+        "universityRoll": "MFA114",
+        "aggregatePercentage": 82.4
+      },
+      {
+        "studentName": "Shushant",
+        "universityRoll": "MFA115",
+        "aggregatePercentage": 86.9
+      },
+      {
+        "studentName": "Evelyn Thompson",
+        "universityRoll": "MFA116",
+        "aggregatePercentage": 78.5
+      },
+      {
+        "studentName": "Lucas Martinez",
+        "universityRoll": "MFA117",
+        "aggregatePercentage": 85.2
+      },
+      {
+        "studentName": "Scarlett White",
+        "universityRoll": "MFA118",
+        "aggregatePercentage": 89.7
+      },
+      {
+        "studentName": "Jackson Taylor",
+        "universityRoll": "MFA119",
+        "aggregatePercentage": 82.4
+      },
+      {
+        "studentName": "Harper Thomas",
+        "universityRoll": "MFA120",
+        "aggregatePercentage": 86.9
+      },
+      {
+        "studentName": "Aiden Jackson",
+        "universityRoll": "MFA121",
+        "aggregatePercentage": 79.3
+      },
+      {
+        "studentName": "Avery Harris",
+        "universityRoll": "MFA122",
+        "aggregatePercentage": 88.2
+      },
+      {
+        "studentName": "Ella Davis",
+        "universityRoll": "MFA123",
+        "aggregatePercentage": 90.6
+      },
+      {
+        "studentName": "Carter Thompson",
+        "universityRoll": "MFA124",
+        "aggregatePercentage": 83.7
+      },
+      {
+        "studentName": "Scarlett White",
+        "universityRoll": "MFA125",
+        "aggregatePercentage": 84.8
+      },
+      {
+        "studentName": "Henry Martinez",
+        "universityRoll": "MFA126",
+        "aggregatePercentage": 87.1
+      },
+      {
+        "studentName": "Madison Johnson",
+        "universityRoll": "MFA127",
+        "aggregatePercentage": 81.4
+      },
+      {
+        "studentName": "Hudson Wilson",
+        "universityRoll": "MFA1528",
+        "aggregatePercentage": 88.9
+      },
+      {
+        "studentName": "Mia Harris",
+        "universityRoll": "MFA129",
+        "aggregatePercentage": 82.3
+      },
+      {
+        "studentName": "Grayson Brown",
+        "universityRoll": "MFA130",
+        "aggregatePercentage": 85.6
+      }
+    ],
+    "MBA": [
+      {
+        "studentName": "Wilson",
+        "universityRoll": "MBA101",
+        "aggregatePercentage": 78.5
+      },
+      {
+        "studentName": "Martinez",
+        "universityRoll": "MBA102",
+        "aggregatePercentage": 85.2
+      },
+      {
+        "studentName": "Smith",
+        "universityRoll": "MBA103",
+        "aggregatePercentage": 89.7
+      },
+      {
+        "studentName": "Johnson",
+        "universityRoll": "MBA104",
+        "aggregatePercentage": 82.4
+      },
+      {
+        "studentName": "Brown",
+        "universityRoll": "MBA105",
+        "aggregatePercentage": 86.9
+      }
+    ],
+    "M.COMM": [
+      {
+        "studentName": "Bhagya",
+        "universityRoll": "MCOM001",
+        "aggregatePercentage": 78.5
+      },
+      {
+        "studentName": "Lavanya",
+        "universityRoll": "MCOM002",
+        "aggregatePercentage": 85.2
+      },
+      {
+        "studentName": "Gagana",
+        "universityRoll": "MCOM003",
+        "aggregatePercentage": 89.7
+      },
+      {
+        "studentName": "Ganashree",
+        "universityRoll": "MCOM004",
+        "aggregatePercentage": 82.4
+      },
+      {
+        "studentName": "Akriti",
+        "universityRoll": "MCOM005",
+        "aggregatePercentage": 86.9
+      }
+    ],
+
+    "BCA": [
+      {
+        "studentName": "Emma",
+        "universityRoll": "BCA321",
+        "aggregatePercentage": 78.5
+      },
+      {
+        "studentName": "Christopher",
+        "universityRoll": "BCA322",
+        "aggregatePercentage": 85.2
+      },
+      {
+        "studentName": "Ava",
+        "universityRoll": "BCA323",
+        "aggregatePercentage": 89.7
+      },
+      {
+        "studentName": "Noah",
+        "universityRoll": "BCA324",
+        "aggregatePercentage": 82.4
+      },
+      {
+        "studentName": "Madison",
+        "universityRoll": "BCA325",
+        "aggregatePercentage": 86.9
+      }
+    ]
+  }
+}

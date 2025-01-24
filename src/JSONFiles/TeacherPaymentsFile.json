@@ -1,0 +1,1924 @@
+{
+  "payments": [
+    {
+      "student_name": "P Rambabu",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126018",
+      "amount_paid": "3,53,210 INR",
+      "payment_date": "2024-04-10",
+      "history": [
+        {
+          "date": "2024-03-25",
+          "amount": "1,10,000 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-10-20",
+          "amount": "90,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-04-15",
+          "amount": "1,53,210 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Ankush A Managavi",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126019",
+      "amount_paid": "3,54,400 INR",
+      "payment_date": "2024-03-15",
+      "history": [
+        {
+          "date": "2024-03-15",
+          "amount": "1,00,200 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-10-10",
+          "amount": "1,00,500 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-04-11",
+          "amount": "1,53,700 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Sujith G",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126020",
+      "amount_paid": "3,53,200 INR",
+      "payment_date": "2024-03-18",
+      "history": [
+        {
+          "date": "2024-03-18",
+          "amount": "1,00,000 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-09-25",
+          "amount": "1,00,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-03-10",
+          "amount": "1,53,200 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Basude Aditya Bhagawat",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126021",
+      "amount_paid": "3,53,200 INR",
+      "payment_date": "2024-03-10",
+      "history": [
+        {
+          "date": "2024-03-10",
+          "amount": "1,00,000 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-09-24",
+          "amount": "1,00,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-03-12",
+          "amount": "1,53,200 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Chethankumar T R",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126022",
+      "amount_paid": "3,53,200 INR",
+      "payment_date": "2024-03-18",
+      "history": [
+        {
+          "date": "2024-03-18",
+          "amount": "1,00,000 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-10-24",
+          "amount": "1,00,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-03-15",
+          "amount": "1,53,200 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Harish Bhat",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126023",
+      "amount_paid": "3,53,200 INR",
+      "payment_date": "2024-02-19",
+      "history": [
+        {
+          "date": "2024-02-19",
+          "amount": "1,00,000 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-09-25",
+          "amount": "1,00,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-03-11",
+          "amount": "1,53,200 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Gorlanna Gari Chandhan",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126024",
+      "amount_paid": "3,53,200 INR",
+      "payment_date": "2024-02-10",
+      "history": [
+        {
+          "date": "2024-02-10",
+          "amount": "1,00,000 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-09-22",
+          "amount": "1,00,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-02-28",
+          "amount": "1,53,200 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Ashish Kumar A",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126025",
+      "amount_paid": "3,53,200 INR",
+      "payment_date": "2024-04-05",
+      "history": [
+        {
+          "date": "2024-04-05",
+          "amount": "1,00,000 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-10-07",
+          "amount": "1,00,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-04-24",
+          "amount": "1,53,200 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Ayush Kumar",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126026",
+      "amount_paid": "3,53,200 INR",
+      "payment_date": "2024-04-10",
+      "history": [
+        {
+          "date": "2024-04-10",
+          "amount": "1,00,000 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-09-19",
+          "amount": "1,00,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-04-10",
+          "amount": "1,53,200 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Harishchandra Chaudhary",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126027",
+      "amount_paid": "3,53,200 INR",
+      "payment_date": "2024-03-10",
+      "history": [
+        {
+          "date": "2024-03-10",
+          "amount": "1,00,000 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-09-15",
+          "amount": "1,00,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "203-03-10",
+          "amount": "1,53,200 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Yashwanth K B",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126028",
+      "amount_paid": "3,53,200 INR",
+      "payment_date": "2024-03-25",
+      "history": [
+        {
+          "date": "2024-03-25",
+          "amount": "1,00,000 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-09-10",
+          "amount": "1,00,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-04-10",
+          "amount": "1,53,200 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Anshuman Chakrabortty",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126029",
+      "amount_paid": "3,53,200 INR",
+      "payment_date": "2024-03-15",
+      "history": [
+        {
+          "date": "2024-03-15",
+          "amount": "1,00,000 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-10-21",
+          "amount": "1,00,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-04-20",
+          "amount": "1,53,200 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Ratul Saha",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126030",
+      "amount_paid": "3,53,200 INR",
+      "payment_date": "2024-04-10",
+      "history": [
+        {
+          "date": "2024-04-10",
+          "amount": "1,00,000 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-09-21",
+          "amount": "1,00,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-04-25",
+          "amount": "1,53,200 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Dharmesh M",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126031",
+      "amount_paid": "3,53,200 INR",
+      "payment_date": "2024-04-26",
+      "history": [
+        {
+          "date": "2024-04-26",
+          "amount": "1,00,000 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-10-15",
+          "amount": "1,00,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-04-24",
+          "amount": "1,53,200 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Annapurna Biswas",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126032",
+      "amount_paid": "3,53,200 INR",
+      "payment_date": "2024-04-03",
+      "history": [
+        {
+          "date": "2024-04-03",
+          "amount": "1,00,000 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-10-18",
+          "amount": "1,00,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-04-19",
+          "amount": "1,53,200 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Abhijeet Khan",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126033",
+      "amount_paid": "3,53,200 INR",
+      "payment_date": "2024-04-20",
+      "history": [
+        {
+          "date": "2024-04-20",
+          "amount": "1,00,000 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-09-16",
+          "amount": "1,00,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-02-11",
+          "amount": "1,53,200 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Pandey Priyanka Manoj Kumar",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126034",
+      "amount_paid": "3,53,200 INR",
+      "payment_date": "2024-04-10",
+      "history": [
+        {
+          "date": "2024-04-10",
+          "amount": "1,00,000 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-09-16",
+          "amount": "1,00,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-03-19",
+          "amount": "1,53,200 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Neha Kumari",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126035",
+      "amount_paid": "3,53,200 INR",
+      "payment_date": "2024-03-20",
+      "history": [
+        {
+          "date": "2024-03-20",
+          "amount": "1,00,000 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-08-22",
+          "amount": "1,00,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-04-10",
+          "amount": "1,53,200 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Simpal Patel",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126036",
+      "amount_paid": "3,53,200 INR",
+      "payment_date": "2024-03-25",
+      "history": [
+        {
+          "date": "2024-03-23",
+          "amount": "1,00,000 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-08-22",
+          "amount": "1,00,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-02-10",
+          "amount": "1,53,200 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Suman Roy",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126037",
+      "amount_paid": "3,53,200 INR",
+      "payment_date": "2024-01-15",
+      "history": [
+        {
+          "date": "2024-01-15",
+          "amount": "1,00,000 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-07-28",
+          "amount": "1,00,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-03-19",
+          "amount": "1,53,200 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Arnab Pal",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126038",
+      "amount_paid": "3,53,200 INR",
+      "payment_date": "2024-01-15",
+      "history": [
+        {
+          "date": "2024-01-15",
+          "amount": "1,00,000 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-08-30",
+          "amount": "1,00,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-03-25",
+          "amount": "1,53,200 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Amrutha Vindhya R K",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126039",
+      "amount_paid": "3,53,200 INR",
+      "payment_date": "2024-04-27",
+      "history": [
+        {
+          "date": "2024-04-27",
+          "amount": "1,00,000 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-07-16",
+          "amount": "1,00,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-04-13",
+          "amount": "1,53,200 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Sai Kishore Karsula",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126040",
+      "amount_paid": "3,53,200 INR",
+      "payment_date": "2024-04-10",
+      "history": [
+        {
+          "date": "2024-04-10",
+          "amount": "1,00,000 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-09-23",
+          "amount": "1,00,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-04-19",
+          "amount": "1,53,200 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Suhas H V",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126042",
+      "amount_paid": "3,53,200 INR",
+      "payment_date": "2024-03-12",
+      "history": [
+        {
+          "date": "2024-03-12",
+          "amount": "1,00,000 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-08-10",
+          "amount": "1,00,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-03-26",
+          "amount": "1,53,200 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Sandeep N",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126043",
+      "amount_paid": "3,53,200 INR",
+      "payment_date": "2024-03-25",
+      "history": [
+        {
+          "date": "2024-03-25",
+          "amount": "1,00,000 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-07-27",
+          "amount": "1,00,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-04-16",
+          "amount": "1,53,200 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Sounder Rajan G",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126044",
+      "amount_paid": "3,53,200 INR",
+      "payment_date": "2024-04-29",
+      "history": [
+        {
+          "date": "2024-04-29",
+          "amount": "1,00,000 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-08-14",
+          "amount": "1,00,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-03-16",
+          "amount": "1,53,200 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "R Chetan",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126045",
+      "amount_paid": "3,53,200 INR",
+      "payment_date": "2024-03-13",
+      "history": [
+        {
+          "date": "2024-03-13",
+          "amount": "1,00,000 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-08-19",
+          "amount": "1,00,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-04-17",
+          "amount": "1,53,200 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Kishor N H",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126046",
+      "amount_paid": "3,53,200 INR",
+      "payment_date": "2024-04-23",
+      "history": [
+        {
+          "date": "2024-04-23",
+          "amount": "1,00,000 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-08-22",
+          "amount": "1,00,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-04-23",
+          "amount": "1,53,200 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Sahana T",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126047",
+      "amount_paid": "3,53,200 INR",
+      "payment_date": "2024-03-15",
+      "history": [
+        {
+          "date": "2024-03-15",
+          "amount": "1,00,000 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-09-30",
+          "amount": "1,00,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-04-26",
+          "amount": "1,53,200 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Suraj",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126048",
+      "amount_paid": "3,53,200 INR",
+      "payment_date": "2024-03-10",
+      "history": [
+        {
+          "date": "2024-03-10",
+          "amount": "1,00,000 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-08-23",
+          "amount": "1,00,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-03-25",
+          "amount": "1,53,200 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Darshan K A",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126049",
+      "amount_paid": "3,11,305 INR",
+      "payment_date": "2024-04-17",
+      "history": [
+        {
+          "date": "2024-04-17",
+          "amount": "89,500  INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-08-26",
+          "amount": "88,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-03-28",
+          "amount": "1,33,800 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Mohan A T",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126050",
+      "amount_paid": "3,11,300 INR",
+      "payment_date": "2024-04-10",
+      "history": [
+        {
+          "date": "2024-04-10",
+          "amount": "89,500 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-09-16",
+          "amount": "88,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-04-19",
+          "amount": "1,33,800 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Deepthi H",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126051",
+      "amount_paid": "3,11,300 INR",
+      "payment_date": "2024-04-21",
+      "history": [
+        {
+          "date": "2024-04-21",
+          "amount": "89,500 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-09-22",
+          "amount": "88,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-03-10",
+          "amount": "1,33,800 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Bhavana M S",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126052",
+      "amount_paid": "3,11,300 INR",
+      "payment_date": "2024-03-26",
+      "history": [
+        {
+          "date": "2024-03-26",
+          "amount": "89,500 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-08-27",
+          "amount": "88,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-04-28",
+          "amount": "1,33,800 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Chandini K S",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126053",
+      "amount_paid": "3,11,300 INR",
+      "payment_date": "2024-04-29",
+      "history": [
+        {
+          "date": "2024-04-29",
+          "amount": "89,500 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-08-27",
+          "amount": "88,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-04-28",
+          "amount": "1,33,800 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Amulya H S",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126054",
+      "amount_paid": "3,11,300 INR",
+      "payment_date": "2024-04-10",
+      "history": [
+        {
+          "date": "2024-04-10",
+          "amount": "89,500 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-08-19",
+          "amount": "88,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-03-11",
+          "amount": "1,33,800 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Pallavi Jattu Gowda",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126055",
+      "amount_paid": "3,11,300 INR",
+      "payment_date": "2024-04-02",
+      "history": [
+        {
+          "date": "2024-04-02",
+          "amount": "89,500 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-07-08",
+          "amount": "88,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-04-10",
+          "amount": "1,33,800 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Rashmitha T",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126056",
+      "amount_paid": "3,11,300 INR",
+      "payment_date": "2024-03-20",
+      "history": [
+        {
+          "date": "2024-03-20",
+          "amount": "89,500 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-08-19",
+          "amount": "188,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-03-30",
+          "amount": "1,33,800 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Punith Gowda K",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126057",
+      "amount_paid": "3,11,300 INR",
+      "payment_date": "2024-04-20",
+      "history": [
+        {
+          "date": "2024-04-20",
+          "amount": "89,500 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-08-09",
+          "amount": "88,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-04-08",
+          "amount": "1,33,800 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Mohammad Azeem",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126058",
+      "amount_paid": "89,500 INR",
+      "payment_date": "2024-03-19",
+      "history": [
+        {
+          "date": "2024-03-19",
+          "amount": "1,00,000 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-08-09",
+          "amount": "88,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-03-07",
+          "amount": "1,33,800 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Yogesha K B",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126059",
+      "amount_paid": "3,11,300 INR",
+      "payment_date": "2024-04-19",
+      "history": [
+        {
+          "date": "2024-04-19",
+          "amount": "89,500 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-08-20",
+          "amount": "88,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-03-30",
+          "amount": "1,33,800 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Nagaprasada",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126060",
+      "amount_paid": "3,11,300 INR",
+      "payment_date": "2024-03-10",
+      "history": [
+        {
+          "date": "2024-03-10",
+          "amount": "89,500 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-09-08",
+          "amount": "88,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-04-18",
+          "amount": "1,33,800 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Sripriya N D",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126061",
+      "amount_paid": "3,11,300 INR",
+      "payment_date": "2024-03-15",
+      "history": [
+        {
+          "date": "2024-03-15",
+          "amount": "89,500 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-08-19",
+          "amount": "88,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-04-18",
+          "amount": "1,33,800 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Ranjithgowda H K",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126062",
+      "amount_paid": "3,11,300 INR",
+      "payment_date": "2024-02-10",
+      "history": [
+        {
+          "date": "2024-02-10",
+          "amount": "89,500 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-07-13",
+          "amount": "88,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-04-25",
+          "amount": "1,33,800 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Vikas J",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126063",
+      "amount_paid": "3,11,300 INR",
+      "payment_date": "2024-03-16",
+      "history": [
+        {
+          "date": "2024-03-16",
+          "amount": "89,500 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-08-17",
+          "amount": "88,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-03-26",
+          "amount": "1,33,800 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Rachana V Shet",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126064",
+      "amount_paid": "3,11,300 INR",
+      "payment_date": "2024-03-29",
+      "history": [
+        {
+          "date": "2024-03-29",
+          "amount": "89,500 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-08-30",
+          "amount": "88,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-03-18",
+          "amount": "1,33,800 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Pooja C Koti",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126065",
+      "amount_paid": "3,11,300 INR",
+      "payment_date": "2024-03-25",
+      "history": [
+        {
+          "date": "2024-03-25",
+          "amount": "89,500 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-07-01",
+          "amount": "88,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-04-06",
+          "amount": "1,33,800 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Sanjana V Amargol",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126066",
+      "amount_paid": "3,11,300 INR",
+      "payment_date": "2024-02-10",
+      "history": [
+        {
+          "date": "2024-02-10",
+          "amount": "89,500 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-08-17",
+          "amount": "88,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-03-19",
+          "amount": "1,33,800 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Shreenidhi R Bhat",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126067",
+      "amount_paid": "3,11,300 INR",
+      "payment_date": "2024-02-09",
+      "history": [
+        {
+          "date": "2024-02-09",
+          "amount": "89,500 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-07-08",
+          "amount": "88,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-04-10",
+          "amount": "1,33,800 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Karthik Kiran S",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126068",
+      "amount_paid": "3,11,300 INR",
+      "payment_date": "2024-04-18",
+      "history": [
+        {
+          "date": "2024-04-18",
+          "amount": "89,500 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-07-10",
+          "amount": "88,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-03-21",
+          "amount": "1,33,800 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Likitha S V",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126069",
+      "amount_paid": "3,11,300 INR",
+      "payment_date": "2024-04-10",
+      "history": [
+        {
+          "date": "2024-04-10",
+          "amount": "89,500 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-08-18",
+          "amount": "88,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-04-23",
+          "amount": "1,33,800 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Pramod B S",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126070",
+      "amount_paid": "3,11,300 INR",
+      "payment_date": "2024-04-29",
+      "history": [
+        {
+          "date": "2024-04-29",
+          "amount": "89,500 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-07-08",
+          "amount": "88,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-04-12",
+          "amount": "1,33,800 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Giri Koushik Yalla",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126071",
+      "amount_paid": "3,53,200 INR",
+      "payment_date": "2024-04-14",
+      "history": [
+        {
+          "date": "2024-04-14",
+          "amount": "89,500 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-07-28",
+          "amount": "88,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-04-10",
+          "amount": "1,33,800 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Nayana N A",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126072",
+      "amount_paid": "3,11,300 INR",
+      "payment_date": "2024-04-25",
+      "history": [
+        {
+          "date": "2024-04-25",
+          "amount": "89,500 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-07-09",
+          "amount": "88,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-03-14",
+          "amount": "1,33,800 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Veeresh K P",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126073",
+      "amount_paid": "3,11,300 INR",
+      "payment_date": "2024-04-18",
+      "history": [
+        {
+          "date": "2024-04-18",
+          "amount": "89,500 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-08-23",
+          "amount": "88,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-04-12",
+          "amount": "1,33,800 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Anoop K V",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126074",
+      "amount_paid": "3,11,300 INR",
+      "payment_date": "2024-03-28",
+      "history": [
+        {
+          "date": "2024-03-28",
+          "amount": "89,500 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-07-10",
+          "amount": "88,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-03-03",
+          "amount": "1,33,800 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Shashank Kabadagi",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126075",
+      "amount_paid": "3,11,300 INR",
+      "payment_date": "2024-04-02",
+      "history": [
+        {
+          "date": "2024-04-02",
+          "amount": "89,500 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-07-28",
+          "amount": "88,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-04-10",
+          "amount": "1,33,800 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Mohan G",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126076",
+      "amount_paid": "3,11,300 INR",
+      "payment_date": "2024-04-19",
+      "history": [
+        {
+          "date": "2024-04-19",
+          "amount": "89,500 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-08-16",
+          "amount": "88,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-04-24",
+          "amount": "1,33,800 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Hema G H",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126077",
+      "amount_paid": "3,11,300 INR",
+      "payment_date": "2024-04-18",
+      "history": [
+        {
+          "date": "2024-04-18",
+          "amount": "89,500 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-07-13",
+          "amount": "88,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-04-10",
+          "amount": "1,33,800 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Meghana S",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126078",
+      "amount_paid": "3,11,300 INR",
+      "payment_date": "2024-04-19",
+      "history": [
+        {
+          "date": "2024-04-19",
+          "amount": "89,500 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-09-17",
+          "amount": "88,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-04-10",
+          "amount": "1,33,800 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Wilson",
+      "semester": "4",
+      "university_roll_no": "MBA101",
+      "amount_paid": "8,00,000 INR",
+      "payment_date": "2024-04-19",
+      "history": [
+        {
+          "date": "2024-04-19",
+          "amount": "2,00,000 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-09-17",
+          "amount": "3,00,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-04-10",
+          "amount": "3,00,000 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Martinez",
+      "semester": "4",
+      "university_roll_no": "MBA102",
+      "amount_paid": "8,00,000 INR",
+      "payment_date": "2024-04-19",
+      "history": [
+        {
+          "date": "2024-04-19",
+          "amount": "2,00,000 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-09-17",
+          "amount": "3,00,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-04-10",
+          "amount": "3,00,000 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Smith",
+      "semester": "4",
+      "university_roll_no": "MBA103",
+      "amount_paid": "8,00,000 INR",
+      "payment_date": "2024-04-19",
+      "history": [
+        {
+          "date": "2024-04-19",
+          "amount": "2,00,000 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-09-17",
+          "amount": "3,00,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-04-10",
+          "amount": "3,00,000 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Johnson",
+      "semester": "4",
+      "university_roll_no": "MBA104",
+      "amount_paid": "8,00,000 INR",
+      "payment_date": "2024-04-19",
+      "history": [
+        {
+          "date": "2024-04-19",
+          "amount": "2,00,000 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-09-17",
+          "amount": "3,00,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-04-10",
+          "amount": "3,00,000 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Brown",
+      "semester": "4",
+      "university_roll_no": "MBA105",
+      "amount_paid": "8,00,000 INR",
+      "payment_date": "2024-04-19",
+      "history": [
+        {
+          "date": "2024-04-19",
+          "amount": "2,00,000 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-09-17",
+          "amount": "3,00,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-04-10",
+          "amount": "3,00,000 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Bhagya",
+      "semester": "4",
+      "university_roll_no": "MCOM001",
+      "amount_paid": "2,00,000 INR",
+      "payment_date": "2024-04-19",
+      "history": [
+        {
+          "date": "2024-04-19",
+          "amount": "1,00,000 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-09-17",
+          "amount": "50,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-04-10",
+          "amount": "50,000 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Lavanya",
+      "semester": "4",
+      "university_roll_no": "MCOM002",
+      "amount_paid": "2,00,000 INR",
+      "payment_date": "2024-04-19",
+      "history": [
+        {
+          "date": "2024-04-19",
+          "amount": "1,00,000 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-09-17",
+          "amount": "50,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-04-10",
+          "amount": "50,000 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Gagana",
+      "semester": "4",
+      "university_roll_no": "MCOM003",
+      "amount_paid": "2,00,000 INR",
+      "payment_date": "2024-04-19",
+      "history": [
+        {
+          "date": "2024-04-19",
+          "amount": "1,00,000 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-09-17",
+          "amount": "50,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-04-10",
+          "amount": "50,000 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Ganashree",
+      "semester": "4",
+      "university_roll_no": "MCOM004",
+      "amount_paid": "2,00,000 INR",
+      "payment_date": "2024-04-19",
+      "history": [
+        {
+          "date": "2024-04-19",
+          "amount": "1,00,000 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-09-17",
+          "amount": "50,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-04-10",
+          "amount": "50,000 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Akriti",
+      "semester": "4",
+      "university_roll_no": "MCOM005",
+      "amount_paid": "2,00,000 INR",
+      "payment_date": "2024-04-19",
+      "history": [
+        {
+          "date": "2024-04-19",
+          "amount": "1,00,000 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-09-17",
+          "amount": "50,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-04-10",
+          "amount": "50,000 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Kiran",
+      "semester": "4",
+      "university_roll_no": "MFA111",
+      "amount_paid": "3,00,000 INR",
+      "payment_date": "2024-04-19",
+      "history": [
+        {
+          "date": "2024-04-19",
+          "amount": "1,00,000 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-09-17",
+          "amount": "1,00,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-04-10",
+          "amount": "1,00,000 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Chetan",
+      "semester": "4",
+      "university_roll_no": "MFA112",
+      "amount_paid": "3,00,000 INR",
+      "payment_date": "2024-04-19",
+      "history": [
+        {
+          "date": "2024-04-19",
+          "amount": "1,00,000 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-09-17",
+          "amount": "1,00,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-04-10",
+          "amount": "1,00,000 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Anindita",
+      "semester": "4",
+      "university_roll_no": "MFA113",
+      "amount_paid": "3,00,000 INR",
+      "payment_date": "2024-04-19",
+      "history": [
+        {
+          "date": "2024-04-19",
+          "amount": "1,00,000 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-09-17",
+          "amount": "1,00,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-04-10",
+          "amount": "1,00,000 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Manikant",
+      "semester": "4",
+      "university_roll_no": "MFA114",
+      "amount_paid": "3,00,000 INR",
+      "payment_date": "2024-04-19",
+      "history": [
+        {
+          "date": "2024-04-19",
+          "amount": "1,00,000 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-09-17",
+          "amount": "1,00,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-04-10",
+          "amount": "1,00,000 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Shushant",
+      "semester": "4",
+      "university_roll_no": "MFA115",
+      "amount_paid": "3,00,000 INR",
+      "payment_date": "2024-04-19",
+      "history": [
+        {
+          "date": "2024-04-19",
+          "amount": "1,00,000 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-09-17",
+          "amount": "1,00,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-04-10",
+          "amount": "1,00,000 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Emma",
+      "semester": "4",
+      "university_roll_no": "BCA321",
+      "amount_paid": "6,00,000 INR",
+      "payment_date": "2024-04-19",
+      "history": [
+        {
+          "date": "2024-04-19",
+          "amount": "2,00,000 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-09-17",
+          "amount": "2,00,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-04-10",
+          "amount": "2,00,000 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Christopher",
+      "semester": "4",
+      "university_roll_no": "BCA322",
+      "amount_paid": "6,00,000 INR",
+      "payment_date": "2024-04-19",
+      "history": [
+        {
+          "date": "2024-04-19",
+          "amount": "2,00,000 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-09-17",
+          "amount": "2,00,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-04-10",
+          "amount": "2,00,000 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Ava",
+      "semester": "4",
+      "university_roll_no": "BCA323",
+      "amount_paid": "6,00,000 INR",
+      "payment_date": "2024-04-19",
+      "history": [
+        {
+          "date": "2024-04-19",
+          "amount": "2,00,000 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-09-17",
+          "amount": "2,00,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-04-10",
+          "amount": "2,00,000 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Noah",
+      "semester": "4",
+      "university_roll_no": "BCA324",
+      "amount_paid": "6,00,000 INR",
+      "payment_date": "2024-04-19",
+      "history": [
+        {
+          "date": "2024-04-19",
+          "amount": "2,00,000 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-09-17",
+          "amount": "2,00,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-04-10",
+          "amount": "2,00,000 INR",
+          "semester": "1"
+        }
+      ]
+    },
+    {
+      "student_name": "Madison",
+      "semester": "4",
+      "university_roll_no": "BCA325",
+      "amount_paid": "6,00,000 INR",
+      "payment_date": "2024-04-19",
+      "history": [
+        {
+          "date": "2024-04-19",
+          "amount": "2,00,000 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-09-17",
+          "amount": "2,00,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-04-10",
+          "amount": "2,00,000 INR",
+          "semester": "1"
+        }
+      ]
+    }
+  ]
+}

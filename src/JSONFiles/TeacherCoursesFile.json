@@ -1,0 +1,84 @@
+{
+  "Courses": [
+    {
+      "id": 1,
+      "name": "Introduction to Psychology",
+      "schedule": "MWF 1:00 PM - 2:30 PM",
+      "syllabus": "Exploration of basic concepts in psychology and human behavior.",
+      "objectives": "Gain understanding of psychological principles, apply concepts to everyday life.",
+      "requiredMaterials": "Textbook: 'Psychology: Themes and Variations', Notebook"
+    },
+    {
+      "id": 2,
+      "name": "Statistics for Social Sciences",
+      "schedule": "TTh 10:00 AM - 11:30 AM",
+      "syllabus": "Introduction to statistical methods for analyzing social science data.",
+      "objectives": "Learn statistical techniques, interpret data, and draw conclusions.",
+      "requiredMaterials": "Textbook: 'Statistics for Social Sciences', Graphing Calculator"
+    },
+    {
+      "id": 3,
+      "name": "Principles of Microeconomics",
+      "schedule": "MWF 9:00 AM - 10:30 AM",
+      "syllabus": "Study of individual economic behavior and markets.",
+      "objectives": "Understand basic economic concepts, analyze market behavior.",
+      "requiredMaterials": "Textbook: 'Principles of Microeconomics', Notebook"
+    },
+    {
+      "id": 4,
+      "name": "World History: Ancient Civilizations",
+      "schedule": "TTh 3:00 PM - 4:30 PM",
+      "syllabus": "Examination of ancient civilizations and their contributions to world history.",
+      "objectives": "Explore the development of ancient societies, understand cultural exchange.",
+      "requiredMaterials": "Textbook: 'The Story of Civilization: Volume I - The Ancient World', Notebook"
+    },
+    {
+      "id": 5,
+      "name": "Introduction to Biology",
+      "schedule": "MWF 11:00 AM - 12:30 PM",
+      "syllabus": "Overview of biological concepts including cellular structure and genetics.",
+      "objectives": "Develop understanding of basic biological principles, explore life processes.",
+      "requiredMaterials": "Textbook: 'Biology: Concepts and Connections', Laboratory Kit"
+    },
+    {
+      "id": 6,
+      "name": "Spanish Language and Culture",
+      "schedule": "TTh 9:00 AM - 10:30 AM",
+      "syllabus": "Introduction to Spanish language, culture, and communication.",
+      "objectives": "Acquire basic language skills, explore Hispanic culture.",
+      "requiredMaterials": "Textbook: '¡Dímelo tú!: A Complete Course', Spanish-English Dictionary"
+    },
+    {
+      "id": 7,
+      "name": "Art History: Renaissance to Modernism",
+      "schedule": "MWF 2:00 PM - 3:30 PM",
+      "syllabus": "Survey of art movements from the Renaissance to the early 20th century.",
+      "objectives": "Examine artistic styles, understand historical context of artworks.",
+      "requiredMaterials": "Textbook: 'Gardner's Art through the Ages: A Global History', Notebook"
+    },
+    {
+      "id": 8,
+      "name": "Introduction to Environmental Science",
+      "schedule": "TTh 11:00 AM - 12:30 PM",
+      "syllabus": "Overview of environmental issues and their scientific foundations.",
+      "objectives": "Understand ecological principles, explore human impact on the environment.",
+      "requiredMaterials": "Textbook: 'Environmental Science: Toward a Sustainable Future', Notebook"
+    },
+    {
+      "id": 9,
+      "name": "Introduction to Philosophy",
+      "schedule": "MWF 3:00 PM - 4:30 PM",
+      "syllabus": "Exploration of fundamental philosophical questions and concepts.",
+      "objectives": "Develop critical thinking skills, analyze philosophical arguments.",
+      "requiredMaterials": "Textbook: 'The Philosophy Book', Notebook"
+    },
+    {
+      "id": 10,
+      "name": "Introduction to Marketing",
+      "schedule": "TTh 2:00 PM - 3:30 PM",
+      "syllabus": "Overview of marketing principles and strategies.",
+      "objectives": "Understand consumer behavior, explore marketing techniques.",
+      "requiredMaterials": "Textbook: 'Principles of Marketing', Notebook"
+    }
+  ]
+}

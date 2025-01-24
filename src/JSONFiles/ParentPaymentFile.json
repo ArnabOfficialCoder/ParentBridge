@@ -1,0 +1,28 @@
+{
+  "payments": [
+    {
+      "student_name": "Arnab Pal",
+      "semester": "4",
+      "university_roll_no": "P03AD22S126038",
+      "amount_paid": "3,53,200 INR",
+      "payment_date": "2024-01-15",
+      "history": [
+        {
+          "date": "2024-01-15",
+          "amount": "1,00,000 INR",
+          "semester": "3"
+        },
+        {
+          "date": "2023-08-30",
+          "amount": "1,00,000 INR",
+          "semester": "2"
+        },
+        {
+          "date": "2023-03-25",
+          "amount": "1,53,200 INR",
+          "semester": "1"
+        }
+      ]
+    }
+  ]
+}

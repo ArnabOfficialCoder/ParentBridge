@@ -1,0 +1,52 @@
+{
+  "attendanceDetails": [
+    {
+      "studentName": "Arnab Pal",
+      "subjects": [
+        {
+          "subjectName": "MP(GK)",
+          "percentage": 83
+        },
+        {
+          "subjectName": "QTRA(VR)",
+          "percentage": 66
+        },
+        {
+          "subjectName": "RM(SKS)",
+          "percentage": 53
+        },
+        {
+          "subjectName": "ML(BD)",
+          "percentage": 75
+        },
+        {
+          "subjectName": "CC(MD)",
+          "percentage": 60
+        },
+        {
+          "subjectName": "WP(NJ)",
+          "percentage": 65
+        },
+        {
+          "subjectName": "QTRA VAP(VR)",
+          "percentage": 100
+        }
+      ],
+      "labs": [
+        {
+          "labName": "WP LAB(NJ)",
+          "percentage": 8
+        },
+        {
+          "labName": "FSD LAB(NJ)",
+          "percentage": 100
+        },
+        {
+          "labName": "FLUTTER LAB(SL)",
+          "percentage": 91
+        }
+      ],
+      "studentType": "POSTGRADUATE"
+    }
+  ]
+}

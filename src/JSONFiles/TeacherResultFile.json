@@ -1,0 +1,853 @@
+{
+  "MCA": [
+    {
+      "key": "MCA-1",
+      "name": "Perumal Rambabu",
+      "rollNo": "P03AD22S126018",
+      "sub1": 90,
+      "sub2": 85,
+      "sub3": 92,
+      "sub4": 88,
+      "sub5": 34,
+      "sub6": 55
+    },
+    {
+      "key": "MCA-2",
+      "name": "Ankush A Managavi ",
+      "rollNo": "P03AD22S126019",
+      "sub1": 88,
+      "sub2": 82,
+      "sub3": 90,
+      "sub4": 85,
+      "sub5": 74,
+      "sub6": 62
+    },
+    {
+      "key": "MCA-3",
+      "name": "Sujith G ",
+      "rollNo": "P03AD22S126020",
+      "sub1": 85,
+      "sub2": 78,
+      "sub3": 89,
+      "sub4": 86,
+      "sub5": 55,
+      "sub6": 75
+    },
+    {
+      "key": "MCA-4",
+      "name": "Basude Aditya Bhagwat",
+      "rollNo": "P03AD22S126021",
+      "sub1": 87,
+      "sub2": 80,
+      "sub3": 88,
+      "sub4": 84,
+      "sub5": 75,
+      "sub6": 68
+    },
+    {
+      "key": "MCA-5",
+      "name": "Chetankumara T R",
+      "rollNo": "P03AD22S126022",
+      "sub1": 92,
+      "sub2": 85,
+      "sub3": 91,
+      "sub4": 89,
+      "sub5": 45,
+      "sub6": 69
+    },
+    {
+      "key": "MCA-6",
+      "name": "Harish Bhat",
+      "rollNo": "P03AD22S126023",
+      "sub1": 88,
+      "sub2": 87,
+      "sub3": 90,
+      "sub4": 85,
+      "sub5": 59,
+      "sub6": 58
+    },
+    {
+      "key": "MCA-7",
+      "name": "Gorlanna Gari chandan",
+      "rollNo": "P03AD22S126024",
+      "sub1": 86,
+      "sub2": 83,
+      "sub3": 92,
+      "sub4": 88,
+      "sub5": 52,
+      "sub6": 87
+    },
+    {
+      "key": "MCA-8",
+      "name": "Ashish Kuamr A",
+      "rollNo": "P03AD22S126025",
+      "sub1": 90,
+      "sub2": 85,
+      "sub3": 87,
+      "sub4": 84,
+      "sub5": 75,
+      "sub6": 55
+    },
+    {
+      "key": "MCA-9",
+      "name": "Ayush Kumar",
+      "rollNo": "P03AD22S126026",
+      "sub1": 85,
+      "sub2": 82,
+      "sub3": 89,
+      "sub4": 86,
+      "sub5": 45,
+      "sub6": 62
+    },
+    {
+      "key": "MCA-10",
+      "name": "Harishchandra Chaudhary",
+      "rollNo": "P03AD22S126027",
+      "sub1": 87,
+      "sub2": 80,
+      "sub3": 88,
+      "sub4": 84,
+      "sub5": 85,
+      "sub6": 75
+    },
+    {
+      "key": "MCA-11",
+      "name": "Yashwanth K B",
+      "rollNo": "P03AD22S126028",
+      "sub1": 90,
+      "sub2": 85,
+      "sub3": 91,
+      "sub4": 89,
+      "sub5": 62,
+      "sub6": 85
+    },
+    {
+      "key": "MCA-12",
+      "name": "Anshuman Chakrabortty",
+      "rollNo": "P03AD22S126029",
+      "sub1": 88,
+      "sub2": 87,
+      "sub3": 90,
+      "sub4": 85,
+      "sub5": 83,
+      "sub6": 46
+    },
+    {
+      "key": "MCA-13",
+      "name": "Ratul Saha ",
+      "rollNo": "P03AD22S126030",
+      "sub1": 86,
+      "sub2": 83,
+      "sub3": 92,
+      "sub4": 88,
+      "sub5": 95,
+      "sub6": 75
+    },
+    {
+      "key": "MCA-14",
+      "name": "Dharmesh M",
+      "rollNo": "P03AD22S126031",
+      "sub1": 90,
+      "sub2": 85,
+      "sub3": 87,
+      "sub4": 84,
+      "sub5": 89,
+      "sub6": 42
+    },
+    {
+      "key": "MCA-15",
+      "name": "Annapurna Biswas",
+      "rollNo": "P03AD22S126032",
+      "sub1": 85,
+      "sub2": 82,
+      "sub3": 89,
+      "sub4": 86,
+      "sub5": 35,
+      "sub6": 69
+    },
+    {
+      "key": "MCA-16",
+      "name": "Abhijeet Khan",
+      "rollNo": "P03AD22S126033",
+      "sub1": 87,
+      "sub2": 80,
+      "sub3": 88,
+      "sub4": 84,
+      "sub5": 79,
+      "sub6": 81
+    },
+    {
+      "key": "MCA-17",
+      "name": "Pandey Priyanka Manoj Kumar",
+      "rollNo": "P03AD22S126034",
+      "sub1": 90,
+      "sub2": 85,
+      "sub3": 91,
+      "sub4": 89,
+      "sub5": 55,
+      "sub6": 58
+    },
+    {
+      "key": "MCA-18",
+      "name": "Neha kumari",
+      "rollNo": "P03AD22S126035",
+      "sub1": 88,
+      "sub2": 87,
+      "sub3": 90,
+      "sub4": 85,
+      "sub5": 49,
+      "sub6": 67
+    },
+    {
+      "key": "MCA-19",
+      "name": "Simpal Patel",
+      "rollNo": "P03AD22S126036",
+      "sub1": 86,
+      "sub2": 83,
+      "sub3": 92,
+      "sub4": 88,
+      "sub5": 95,
+      "sub6": 67
+    },
+    {
+      "key": "MCA-20",
+      "name": "Suman Roy ",
+      "rollNo": "P03AD22S126037",
+      "sub1": 90,
+      "sub2": 85,
+      "sub3": 87,
+      "sub4": 84,
+      "sub5": 73,
+      "sub6": 76
+    },
+
+    {
+      "key": "MCA-21",
+      "name": "Arnab Pal",
+      "rollNo": "P03AD22S126038",
+      "sub1": 92,
+      "sub2": 88,
+      "sub3": 90,
+      "sub4": 85,
+      "sub5": 76,
+      "sub6": 89
+    },
+    {
+      "key": "MCA-22",
+      "name": "Amrutha Vindhya R K",
+      "rollNo": "P03AD22S126039",
+      "sub1": 85,
+      "sub2": 82,
+      "sub3": 87,
+      "sub4": 84,
+      "sub5": 55,
+      "sub6": 76
+    },
+    {
+      "key": "MCA-23",
+      "name": "Sai kishore Karsula",
+      "rollNo": "P03AD22S126040",
+      "sub1": 88,
+      "sub2": 85,
+      "sub3": 91,
+      "sub4": 89,
+      "sub5": 68,
+      "sub6": 75
+    },
+    {
+      "key": "MCA-24",
+      "name": "Suhas H V",
+      "rollNo": "P03AD22S126042",
+      "sub1": 90,
+      "sub2": 87,
+      "sub3": 88,
+      "sub4": 85,
+      "sub5": 55,
+      "sub6": 75
+    },
+    {
+      "key": "MCA-25",
+      "name": "Sandeep N",
+      "rollNo": "P03AD22S126043",
+      "sub1": 86,
+      "sub2": 83,
+      "sub3": 92,
+      "sub4": 88,
+      "sub5": 59,
+      "sub6": 65
+    },
+    {
+      "key": "MCA-26",
+      "name": "Sounder Rajan g",
+      "rollNo": "P03AD22S126044",
+      "sub1": 90,
+      "sub2": 85,
+      "sub3": 87,
+      "sub4": 84,
+      "sub5": 69,
+      "sub6": 88
+    },
+    {
+      "key": "MCA-27",
+      "name": "R Chetan",
+      "rollNo": "P03AD22S126045",
+      "sub1": 85,
+      "sub2": 82,
+      "sub3": 89,
+      "sub4": 86,
+      "sub5": 46,
+      "sub6": 65
+    },
+    {
+      "key": "MCA-28",
+      "name": "Kishor N H",
+      "rollNo": "P03AD22S126046",
+      "sub1": 87,
+      "sub2": 80,
+      "sub3": 88,
+      "sub4": 84,
+      "sub5": 59,
+      "sub6": 76
+    },
+    {
+      "key": "MCA-29",
+      "name": "Sahana T",
+      "rollNo": "P03AD22S126047",
+      "sub1": 90,
+      "sub2": 85,
+      "sub3": 91,
+      "sub4": 89,
+      "sub5": 59,
+      "sub6": 65
+    },
+    {
+      "key": "MCA-30",
+      "name": "Suraj",
+      "rollNo": "P03AD22S126048",
+      "sub1": 88,
+      "sub2": 87,
+      "sub3": 90,
+      "sub4": 85,
+      "sub5": 78,
+      "sub6": 69
+    },
+    {
+      "key": "MCA-31",
+      "name": "Darshan K A",
+      "rollNo": "P03AD22S126049",
+      "sub1": 86,
+      "sub2": 83,
+      "sub3": 92,
+      "sub4": 88,
+      "sub5": 59,
+      "sub6": 89
+    },
+    {
+      "key": "MCA-32",
+      "name": "Mohan A T",
+      "rollNo": "P03AD22S126050",
+      "sub1": 90,
+      "sub2": 85,
+      "sub3": 87,
+      "sub4": 84,
+      "sub5": 49,
+      "sub6": 78
+    },
+    {
+      "key": "MCA-33",
+      "name": "Deepthi H",
+      "rollNo": "P03AD22S126051",
+      "sub1": 85,
+      "sub2": 82,
+      "sub3": 89,
+      "sub4": 86,
+      "sub5": 81,
+      "sub6": 58
+    },
+    {
+      "key": "MCA-34",
+      "name": " Bhavana M S",
+      "rollNo": "P03AD22S126052",
+      "sub1": 87,
+      "sub2": 80,
+      "sub3": 88,
+      "sub4": 84,
+      "sub5": 91,
+      "sub6": 67
+    },
+    {
+      "key": "MCA-35",
+      "name": "Chandini K S",
+      "rollNo": "P03AD22S126053",
+      "sub1": 90,
+      "sub2": 85,
+      "sub3": 91,
+      "sub4": 89,
+      "sub5": 86,
+      "sub6": 76
+    },
+    {
+      "key": "MCA-36",
+      "name": "Amulya H S",
+      "rollNo": "P03AD22S126054",
+      "sub1": 88,
+      "sub2": 87,
+      "sub3": 90,
+      "sub4": 85,
+      "sub5": 96,
+      "sub6": 78
+    },
+    {
+      "key": "MCA-37",
+      "name": "Pallavi Jattu Gowda",
+      "rollNo": "P03AD22S126055",
+      "sub1": 86,
+      "sub2": 83,
+      "sub3": 92,
+      "sub4": 88,
+      "sub5": 72,
+      "sub6": 68
+    },
+    {
+      "key": "MCA-38",
+      "name": "Rashmitha T",
+      "rollNo": "P03AD22S126056",
+      "sub1": 90,
+      "sub2": 85,
+      "sub3": 87,
+      "sub4": 84,
+      "sub5": 76,
+      "sub6": 59
+    },
+    {
+      "key": "MCA-39",
+      "name": " Punith Gowda K",
+      "rollNo": "P03AD22S126057",
+      "sub1": 85,
+      "sub2": 82,
+      "sub3": 89,
+      "sub4": 86,
+      "sub5": 79,
+      "sub6": 56
+    },
+    {
+      "key": "MCA-40",
+      "name": "Mohammad Azeem",
+      "rollNo": "P03AD22S126058",
+      "sub1": 87,
+      "sub2": 80,
+      "sub3": 88,
+      "sub4": 84,
+      "sub5": 71,
+      "sub6": 98
+    },
+    {
+      "key": "MCA-41",
+      "name": "Yogesha K B",
+      "rollNo": "P03AD22S126059",
+      "sub1": 92,
+      "sub2": 88,
+      "sub3": 90,
+      "sub4": 85,
+      "sub5": 67,
+      "sub6": 78
+    },
+    {
+      "key": "MBA-42",
+      "name": " Nagaprasada",
+      "rollNo": "P03AD22S126060",
+      "sub1": 85,
+      "sub2": 82,
+      "sub3": 87,
+      "sub4": 84,
+      "sub5": 59,
+      "sub6": 89
+    },
+    {
+      "key": "MBA-43",
+      "name": "Sripriya N D",
+      "rollNo": "P03AD22S126061",
+      "sub1": 88,
+      "sub2": 85,
+      "sub3": 91,
+      "sub4": 89,
+      "sub5": 78,
+      "sub6": 65
+    },
+    {
+      "key": "MBA-44",
+      "name": " Ranjithgowda H K",
+      "rollNo": "P03AD22S126062",
+      "sub1": 90,
+      "sub2": 87,
+      "sub3": 88,
+      "sub4": 85,
+      "sub5": 59,
+      "sub6": 69
+    },
+    {
+      "key": "MBA-45",
+      "name": "Vikas J",
+      "rollNo": "P03AD22S126063",
+      "sub1": 86,
+      "sub2": 83,
+      "sub3": 92,
+      "sub4": 88,
+      "sub5": 79,
+      "sub6": 65
+    },
+    {
+      "key": "MBA-46",
+      "name": " Rachana V Shet",
+      "rollNo": "P03AD22S126064",
+      "sub1": 90,
+      "sub2": 85,
+      "sub3": 87,
+      "sub4": 84,
+      "sub5": 68,
+      "sub6": 72
+    },
+    {
+      "key": "MBA-47",
+      "name": "Pooja C Koti",
+      "rollNo": "P03AD22S126065",
+      "sub1": 85,
+      "sub2": 82,
+      "sub3": 89,
+      "sub4": 86,
+      "sub5": 79,
+      "sub6": 68
+    },
+    {
+      "key": "MBA-48",
+      "name": "Sanjana V Amargol",
+      "rollNo": "P03AD22S126066",
+      "sub1": 87,
+      "sub2": 80,
+      "sub3": 88,
+      "sub4": 84,
+      "sub5": 79,
+      "sub6": 76
+    },
+    {
+      "key": "MBA-49",
+      "name": " Shreenidhi R Bhat",
+      "rollNo": "P03AD22S126067",
+      "sub1": 90,
+      "sub2": 85,
+      "sub3": 91,
+      "sub4": 89,
+      "sub5": 78,
+      "sub6": 45
+    },
+    {
+      "key": "MBA-50",
+      "name": "Karthik Kiran S",
+      "rollNo": "P03AD22S126068",
+      "sub1": 88,
+      "sub2": 87,
+      "sub3": 90,
+      "sub4": 85,
+      "sub5": 77,
+      "sub6": 76
+    },
+    {
+      "key": "MBA-51",
+      "name": "Likitha S V",
+      "rollNo": "P03AD22S126069",
+      "sub1": 86,
+      "sub2": 83,
+      "sub3": 92,
+      "sub4": 88,
+      "sub5": 77,
+      "sub6": 55
+    },
+    {
+      "key": "MBA-52",
+      "name": "Pramod B S",
+      "rollNo": "P03AD22S126070",
+      "sub1": 90,
+      "sub2": 85,
+      "sub3": 87,
+      "sub4": 84,
+      "sub5": 55,
+      "sub6": 85
+    },
+    {
+      "key": "MBA-53",
+      "name": "Giri Koushik Yalla",
+      "rollNo": "P03AD22S126071",
+      "sub1": 85,
+      "sub2": 82,
+      "sub3": 89,
+      "sub4": 86,
+      "sub5": 79,
+      "sub6": 68
+    },
+    {
+      "key": "MBA-54",
+      "name": "Nayana N A",
+      "rollNo": "P03AD22S126072",
+      "sub1": 87,
+      "sub2": 80,
+      "sub3": 88,
+      "sub4": 84,
+      "sub5": 73,
+      "sub6": 76
+    },
+    {
+      "key": "MBA-55",
+      "name": "Veeresh K P",
+      "rollNo": "P03AD22S126073",
+      "sub1": 90,
+      "sub2": 85,
+      "sub3": 91,
+      "sub4": 89,
+      "sub5": 66,
+      "sub6": 79
+    },
+    {
+      "key": "MBA-56",
+      "name": "Anoop K V",
+      "rollNo": "P03AD22S126074",
+      "sub1": 88,
+      "sub2": 87,
+      "sub3": 90,
+      "sub4": 85,
+      "sub5": 89,
+      "sub6": 73
+    },
+    {
+      "key": "MBA-57",
+      "name": "Shashank Kabadagi",
+      "rollNo": "P03AD22S126075",
+      "sub1": 86,
+      "sub2": 83,
+      "sub3": 92,
+      "sub4": 88,
+      "sub5": 59,
+      "sub6": 79
+    },
+    {
+      "key": "MBA-58",
+      "name": " Mohan G",
+      "rollNo": "P03AD22S126076",
+      "sub1": 90,
+      "sub2": 85,
+      "sub3": 87,
+      "sub4": 84,
+      "sub5": 88,
+      "sub6": 65
+    },
+    {
+      "key": "MBA-59",
+      "name": "Hema G H",
+      "rollNo": "P03AD22S126077",
+      "sub1": 85,
+      "sub2": 82,
+      "sub3": 89,
+      "sub4": 86,
+      "sub5": 89,
+      "sub6": 86
+    },
+    {
+      "key": "MBA-60",
+      "name": "Meghana S",
+      "rollNo": "P03AD22S126078",
+      "sub1": 87,
+      "sub2": 80,
+      "sub3": 88,
+      "sub4": 84,
+      "sub5": 42,
+      "sub6": 95
+    }
+  ],
+  "M.COM": [
+    {
+      "key": "MCOM-1",
+      "name": "Bhagya",
+      "rollNo": "MCOM001",
+      "sub1": 92,
+      "sub2": 88,
+      "sub3": 90,
+      "sub4": 85
+    },
+    {
+      "key": "MCOM-2",
+      "name": "Lavanya",
+      "rollNo": "MCOM002",
+      "sub1": 93,
+      "sub2": 80,
+      "sub3": 95,
+      "sub4": 86
+    },
+    {
+      "key": "MCOM-3",
+      "name": "Gagana",
+      "rollNo": "MCOM003",
+      "sub1": 72,
+      "sub2": 68,
+      "sub3": 60,
+      "sub4": 75
+    },
+    {
+      "key": "MCOM-4",
+      "name": "Ganashree",
+      "rollNo": "MCOM004",
+      "sub1": 99,
+      "sub2": 89,
+      "sub3": 99,
+      "sub4": 89
+    },
+    {
+      "key": "MCOM-5",
+      "name": "Akriti",
+      "rollNo": "MCOM005",
+      "sub1": 92,
+      "sub2": 88,
+      "sub3": 90,
+      "sub4": 85
+    }
+  ],
+  "MFA": [
+    {
+      "key": "MFA-1",
+      "name": "Kiran",
+      "rollNo": "MFA111",
+      "sub1": 92,
+      "sub2": 88,
+      "sub3": 90,
+      "sub4": 85
+    },
+    {
+      "key": "MFA-2",
+      "name": "Chetan",
+      "rollNo": "MFA112",
+      "sub1": 93,
+      "sub2": 85,
+      "sub3": 98,
+      "sub4": 81
+    },
+    {
+      "key": "MFA-3",
+      "name": "Anindita",
+      "rollNo": "MFA113",
+      "sub1": 92,
+      "sub2": 82,
+      "sub3": 50,
+      "sub4": 86
+    },
+    {
+      "key": "MFA-4",
+      "name": "Manikant",
+      "rollNo": "MFA114",
+      "sub1": 82,
+      "sub2": 48,
+      "sub3": 70,
+      "sub4": 65
+    },
+    {
+      "key": "MFA-5",
+      "name": "Shushant",
+      "rollNo": "MFA115",
+      "sub1": 72,
+      "sub2": 48,
+      "sub3": 91,
+      "sub4": 85
+    }
+  ],
+  "MBA": [
+    {
+      "key": "MBA-1",
+      "name": "Wilson",
+      "rollNo": "MBA101",
+      "sub1": 92,
+      "sub2": 88,
+      "sub3": 90,
+      "sub4": 85
+    },
+    {
+      "key": "MBA-2",
+      "name": "Martinez",
+      "rollNo": "MBA102",
+      "sub1": 85,
+      "sub2": 82,
+      "sub3": 87,
+      "sub4": 84
+    },
+    {
+      "key": "MBA-3",
+      "name": "Smith",
+      "rollNo": "MBA103",
+      "sub1": 88,
+      "sub2": 85,
+      "sub3": 91,
+      "sub4": 89
+    },
+    {
+      "key": "MBA-4",
+      "name": "Johnson",
+      "rollNo": "MBA104",
+      "sub1": 90,
+      "sub2": 87,
+      "sub3": 88,
+      "sub4": 85
+    },
+    {
+      "key": "MBA-5",
+      "name": "Brown",
+      "rollNo": "MBA105",
+      "sub1": 86,
+      "sub2": 83,
+      "sub3": 92,
+      "sub4": 88
+    }
+  ],
+  "BCA": [
+    {
+      "key": "BCA-1",
+      "name": "Emma",
+      "rollNo": "BCA321",
+      "sub1": 92,
+      "sub2": 88,
+      "sub3": 90,
+      "sub4": 85
+    },
+    {
+      "key": "BCA-2",
+      "name": "Christopher",
+      "rollNo": "BCA322",
+      "sub1": 85,
+      "sub2": 82,
+      "sub3": 87,
+      "sub4": 84
+    },
+    {
+      "key": "BCA-3",
+      "name": "Ava",
+      "rollNo": "BCA323",
+      "sub1": 88,
+      "sub2": 85,
+      "sub3": 91,
+      "sub4": 89
+    },
+    {
+      "key": "BCA-4",
+      "name": "Noah",
+      "rollNo": "BCA324",
+      "sub1": 90,
+      "sub2": 87,
+      "sub3": 88,
+      "sub4": 85
+    },
+    {
+      "key": "BCA-5",
+      "name": "Madison",
+      "rollNo": "BCA325",
+      "sub1": 86,
+      "sub2": 83,
+      "sub3": 92,
+      "sub4": 88
+    }
+  ]
+}
